@@ -1,0 +1,15 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "description": "Primeiro Projeto com Cypress",
+  "main": "npx Cypress open",
+  "scripts": {
+    "test": "npx Cypress open"
+  },
+  "author": "Maria Irlan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "mochawesome": "^7.1.3"
+  }
+}
